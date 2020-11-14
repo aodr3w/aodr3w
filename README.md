@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 I’m currently learning how to design and develop data processing pipelines.
+- 🌱 I’m currently learning how to design and develop data processing pipelines with python , Apache Kafka & Apache Spark.
 
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
