@@ -3,7 +3,7 @@
 - My name is Andrew , i'am an experienced and highly motivated Data Engineer.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 I’m currently learning Big Data Engineering & Machine Learning.
-- I write code in Python & Golang. Also interested in Scala
+- I write code primarily in Python. Also interested in learning Scala
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
