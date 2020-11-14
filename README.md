@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- My name is Andrew , i'am an experienced and highly motivated Data Engineer.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 I’m currently learning how to design and develop data processing pipelines with python , Apache Kafka & Apache Spark.
 
