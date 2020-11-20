@@ -2,7 +2,7 @@
 
 - My name is Andrew , i'am an experienced and highly motivated Data Engineer.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 I’m currently learning Big Data Engineering.
+- 🌱 I’m currently about Distributed Systems.
 - I write code primarily in Python. Also interested in learning Scala, Golang
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
