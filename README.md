@@ -3,7 +3,6 @@
 - My name is Andrew , i'am an experienced and highly motivated Software Engineer.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 I’m currently learning about Distributed Systems , Haskell & Scala.
-- I write code predominantly in Python.
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
