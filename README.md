@@ -2,7 +2,7 @@
 
 - My name is Andrew , I'am a programmer specialized in backend engineering.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 I’m currently Golang , Scala & Rust
+- 🌱 I’m currently learning Golang , Scala & Rust
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
