@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Andrew , I'am a programmer specialized in backend engineering.
+- My name is Andrew , I'am a programmer specialized in Data Engineering.
 - 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 In my free time i study distributed systems.
 -How to reach me:
