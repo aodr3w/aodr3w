@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - My name is Andrew , I'am a programmer specialized in Data Engineering.
-- 🔭 I’m currently working at lobstr, developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 In my free time i study distributed systems.
+- 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
+- 🌱 In my free time i study Big Data Engineering and work with Python & Scala
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
