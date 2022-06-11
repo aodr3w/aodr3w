@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Andrew , I'am a programmer specialized in Data Engineering.
+- My name is Andrew , I'am a Backend Developer
 - 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 In my free time i study Big Data Engineering and work with Python & Scala
 -How to reach me:
