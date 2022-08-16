@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Andrew , I'am a Data Engineer
+- My name is Andrew , I'm a Data Engineer
 - 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
 - 🌱 In my free time i write Python/Scala & study Machine Learning.
 -How to reach me:
