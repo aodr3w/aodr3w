@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- My name is Andrew , I'am a Backend Developer
+- My name is Andrew , I'am a Data Engineer
 - 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 In my free time i explore the world of functional Programming and distributed systems development with scala & akka .
+- 🌱 In my free time i write Python/Scala & study Machine Learning.
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
