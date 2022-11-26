@@ -2,7 +2,6 @@
 
 - My name is Andrew , I'm a Data Engineer
 - 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
-- 🌱 In my free time i study Rust , Machine Learning & Distributed Systems.
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 -linkedin: https://www.linkedin.com/in/andrew-odiit-b9405a137/ .
