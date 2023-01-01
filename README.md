@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Andrew , I'm a Data Engineer
+- My name is Andrew , I'm a Sofware Developer.
 - 🔭 I’m currently working on developing and maintaining data infrastructure for large scale web crawling.
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
