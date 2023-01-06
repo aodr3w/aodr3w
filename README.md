@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Andrew , I'm a Sofware Developer.
-- 🔭 I work with Python, Clojure & Elixir
+- 🔭 I work with Python , Clojure & Golang
 -How to reach me:
 -email : andrewodiit2020@gmail.com.
 <!--
