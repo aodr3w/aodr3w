@@ -3,7 +3,7 @@
 - My name is Andrew , I'm a Sofware Developer.
 - 🔭 I work with Python, Golang & Rust
 -How to reach me:
--email : andrewodiit2020@gmail.com.
+-email : mrkaizen97@gmail.com
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
