@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - My name is Drew , I'm a Sofware Developer.
--How to reach me:
--email : mrkaizen97@gmail.com
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
