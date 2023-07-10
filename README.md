@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - My name is Drew , I'm a Sofware Developer.
-- 🔭 I write Rust, and love to  experiment & solve problems with it .
 -How to reach me:
 -email : mrkaizen97@gmail.com
 <!--
