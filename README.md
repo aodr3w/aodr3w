@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Drew , I'm a Sofware Developer.
+- My name is Drew , I'm a Sofware Developer. I code in Rust, Python & Golang
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
