@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- My name is Drew , I'm a Sofware Developer. I code in Rust, Python & Golang
+- Hi, am code-disciple , I'm a Sofware Developer. I code in Rust, Python & Golang.
+- Am also learning Haskell
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
