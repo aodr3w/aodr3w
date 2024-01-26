@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Hi, am Drew , A Sofware Developer based in Africa. I code in Rust, Python & Golang.
-- Am also learning Haskell
+- Hi, am Drew , A Sofware Developer based in Africa.
+- My areas of interest are Rust & Distributed Systems
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
