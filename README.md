@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, am Drew , A Sofware Developer based in Africa.
+- Hi, am Andrew , A Sofware Developer.
 - My areas of interest are Golang & Distributed Systems
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
