@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Hi, am Andrew , A Sofware Developer.
-- My areas of interest are Golang & Distributed Systems
+- I build applications with Go & Rust
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
