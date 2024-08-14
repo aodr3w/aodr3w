@@ -4,8 +4,7 @@
 - I build applications with Go & Rust.
 - Iam open to remote roles.
   
-## Most Used Languages
-![Top Languages](https://your-image-link.com/language-chart.png)
+https://github-stats.omsimos.com/user/aodr3w?theme=default&hide_border=true&count_private=true
 
 
 <!--
