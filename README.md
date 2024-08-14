@@ -4,8 +4,9 @@
 - I build applications with Go & Rust.
 - Iam open to remote roles.
   
-- ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aodr3w&layout=compact)
+## Most Used Languages
+![Top Languages](https://your-image-link.com/language-chart.png)
+
 
 <!--
 **AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
