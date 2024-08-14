@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- Hi, am Drew, A Sofware Developer based in East Africa.
-- 
+- Hi, am Drew, A Sofware Developer.
 - I build applications with Go & Rust.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
