@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-- Hi, am Andrew Odiit , A Sofware Developer based in East Africa.
+- Hi, am Drew, A Sofware Developer based in East Africa.
+- 
 - I build applications with Go & Rust.
-- Iam open to remote roles.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
+
   
-https://github-stats.omsimos.com/user/aodr3w?theme=default&hide_border=true&count_private=true
+
 
 
 <!--
