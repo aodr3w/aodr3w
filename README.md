@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-- Hi, am Drew, A Sofware Developer.
+- Hi, am Drew, I'am a programmer.
 - I build applications with Go & Rust.
+- Also interested in learning C & C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 
