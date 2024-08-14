@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- Hi, am Andrew , A Sofware Developer.
-- I build applications with Go & Rust
+- Hi, am Andrew Odiit , A Sofware Developer based in East Africa.
+- I build applications with Go & Rust.
+- Iam open to remote roles.
+  
 - ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aodr3w&layout=compact)
 
