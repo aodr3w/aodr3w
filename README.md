@@ -2,8 +2,9 @@
 
 - Hi, am Andrew, I'am a programmer & computer-science graduate
 - I love working with Go & Rust.
+<!--
 - I'am interested in Applied Cryptography & Distributed Systems.
-
+-->
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
