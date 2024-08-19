@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, am Andrew, I'am a programmer & computer-science graduate
+- Hi, am Andrew, I'am a programmer & computer-science graduate.
 - I love working with Go & Rust.
 <!--
 - I'am interested in Applied Cryptography & Distributed Systems.
