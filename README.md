@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Hi, am Andrew, I'am a programmer.
-- My areas of focus are Backend Development & Systems Programming.
+- Hi, am Andrew, I'am a programmer & Computer Science graduate.
+- My love working with Go & Rust.
 
 <!--
 
