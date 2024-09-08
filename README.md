@@ -2,7 +2,7 @@
 
 - Hi, am Andrew
 - I'am a programmer & computer-science graduate.
-- I work with Go, Rust & Python.
+- I work with Go & Rust
 <!--
 - I'am interested in Applied Cryptography & Distributed Systems.
 -->
