@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - Hi, am Andrew
-- I'am a programmer & computer-science graduate.
-- Golang Developer
+- programmer & computer-science graduate.
 <!--
 - I'am interested in Applied Cryptography & Distributed Systems.
 -->
