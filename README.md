@@ -2,9 +2,7 @@
 
 - Hi, am Andrew
 - programmer & computer-science graduate.
-<!--
-- I'am interested in Applied Cryptography & Distributed Systems.
--->
+- I'am interested in Systems Engineering with Rust.
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
