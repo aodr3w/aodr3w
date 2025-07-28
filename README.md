@@ -2,7 +2,7 @@
 
 - Hi, am Andrew
 - programmer & computer-science graduate.
-- I'am interested in Systems Engineering with Rust.
+- I'am interested in Systems Engineering with Rust & Golang
 <!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w)](https://github.com/anuraghazra/github-readme-stats)
