@@ -2,7 +2,7 @@
 
 - Hi, am Andrew
 - programmer & computer-science graduate.
-- Keenly interested in  Backend Engineering with Rust.
+- Keenly interested in Software Engineering with Rust.
 - Looking for some help with Rust Development ? Please feel free to reach out.
 
 
