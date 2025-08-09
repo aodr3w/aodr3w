@@ -4,7 +4,7 @@
 - programmer & computer-science graduate.
 - I'am interested in Systems Engineering with Rust & Golang
 - Curios about Trading Systems. (both crypto and traditional)
-- Looking for an instrically motivated developer, please feel free to reach out !
+- Are you looking for an experienced instrically motivated Backend Rust/Go/Python Developer ? Please reach out.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-odiit-b9405a137/)
