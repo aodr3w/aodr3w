@@ -2,8 +2,7 @@
 
 - Hi, am Andrew
 - programmer & computer-science graduate.
-- I'am interested in Systems Engineering with Rust & Golang
-- Curios about Trading Systems. (both crypto and traditional)
+- Keenly interested in  Backend Engineering with Rust.
 - Looking for some help with Rust Development ? Please feel free to reach out.
 
 
