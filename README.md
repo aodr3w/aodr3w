@@ -1,29 +1,20 @@
 ### Hi there 👋
 
-- Hi, am Andrew
-- programmer & computer-science graduate.
+- Hi, I'm Andrew
+- Programmer & Computer Science graduate.
 - Keenly interested in Software Engineering with Rust.
-- Looking for some help with Rust Development ? Please feel free to reach out.
-
+- Looking for some help with Rust Development? Please feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-odiit-b9405a137/)
 
+---
 
+<div align="center">
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aodr3w&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aodr3w&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aodr3w&theme=radical)](https://git.io/streak-stats)
 
-
-
-<!--
-**AndrewOdiit/AndrewOdiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+</div>
