@@ -15,6 +15,6 @@
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aodr3w&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aodr3w&theme=radical)](https://git.io/streak-stats)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=aodr3w&show_icons=true&theme=radical)
 
 </div>
