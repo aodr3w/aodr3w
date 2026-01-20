@@ -2,10 +2,8 @@
 
 - Hi, I'm Andrew
 - Programmer & Computer Science graduate.
-- Specialized in Data As a Service, Web Scraping, Reverse Engineering, Anti Bot Detection bypass, Python, Golang & Rust.
-- Looking for some help with WebScraping, Anti-Bot bypass, Saas development ? Please feel free to reach out.
+- Interested in Distributed Systems Engineering with Rust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-odiit-b9405a137/)
 
 ---
 
